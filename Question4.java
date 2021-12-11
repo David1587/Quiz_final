@@ -9,7 +9,8 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ASUS
+ * @author Sergio Alejandro Sabogal Cortés 
+ * Jesus David Cortes Pardo   
  */
 public class Question4 extends javax.swing.JFrame {
 
