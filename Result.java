@@ -6,7 +6,8 @@ package javaquiz;
 
 /**
  *
- * @author ASUS
+ * @author Sergio Alejandro Sabogal Cortés 
+ * Jesus David Cortes Pardo   
  */
 public class Result extends javax.swing.JFrame {
 
