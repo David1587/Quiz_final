@@ -6,7 +6,8 @@ package javaquiz;
 
 /**
  *
- * @author ASUS
+ * @author Sergio Alejandro Sabogal Cortés 
+ * Jesus David Cortes Pardo   
  */
 public class Start extends javax.swing.JFrame {
 
